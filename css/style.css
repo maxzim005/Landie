@@ -1,0 +1,17 @@
+* {
+	font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+.first_section {
+    min-height: 500px;
+    background: url('/img/bg_first_section.png') center (center / cover) no-repeat;
+}
+
+.menu{
+    display: flex;
+}
+
+.menu_item{
+    margin-left: 15px;
+}
